@@ -51,7 +51,7 @@ function calcular(){
                 break;
         }       
         presultado.style = "color:#40E0D0"
-	    presultado.innerText = "= " + resultado
+	    presultado.innerText = "Resultado = " + resultado
     }else{
         presultado.style = "color:#40E0D0"
         presultado.innerText = "calculo imposible"
