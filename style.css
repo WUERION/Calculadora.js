@@ -31,7 +31,8 @@ h1{
 
 input::placeholder{
     color: #6F00FF;
-    font-family: cursive;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Sofia Sans', sans-serif;
     
     /* color: #FF69B4; */
     text-align: center;
