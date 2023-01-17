@@ -41,3 +41,7 @@ input::placeholder{
 #resultado{
     font-size: 17px;
 }
+
+#calcular{
+    cursor:pointer;
+}
