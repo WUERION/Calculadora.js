@@ -38,8 +38,8 @@ function calcular(){
         let resultado;
         switch(operacion){
             case "+":
-            resultado = op1 + op2
-            break;
+            	resultado = op1 + op2
+            	break;
             case "-":
                 resultado = op1 - op2
                 break;
@@ -50,10 +50,10 @@ function calcular(){
                 resultado = op1 / op2
                 break;
         }       
-        presultado.style = "color:black"
+        presultado.style = "color:#40E0D0"
 	    presultado.innerText = "= " + resultado
     }else{
-        presultado.style = "color:red"
+        presultado.style = "color:#40E0D0"
         presultado.innerText = "calculo imposible"
     }
 }
