@@ -33,7 +33,7 @@ input::placeholder{
     color: #6F00FF;
     font-family: 'Nunito', sans-serif;
     font-family: 'Sofia Sans', sans-serif;
-    
+    font-size:15px;
     /* color: #FF69B4; */
     text-align: center;
 }
